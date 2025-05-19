@@ -57,7 +57,7 @@ bash copy_all_files.sh
 
 ---
 
-## 🚀 Script 2: `process_folders_parallel.sh`
+## Script 2: `process_folders_parallel.sh`
 
 **Purpose**:  
 Runs the scarHRD setup and execution workflow for each `_ScarHRD` folder in parallel.
