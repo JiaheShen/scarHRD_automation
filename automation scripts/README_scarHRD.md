@@ -1,11 +1,11 @@
 
-# 📁 scarHRD Automation Scripts
+# scarHRD Automation Scripts
 
 These two bash scripts automate the **collection of necessary BAM/BAI files** and the **execution of the scarHRD pipeline** in a batch fashion.
 
 ---
 
-## 🔧 Script 1: `copy_all_files.sh`
+## Script 1: `copy_all_files.sh`
 
 **Purpose**:  
 Copies the necessary `.bam` and `.bam.bai` files from sample folders into local project directories (e.g. `020_ScarHRD/`, `057_ScarHRD/`), along with workflow files required for scarHRD.
@@ -84,7 +84,7 @@ bash process_folders_parallel.sh
 
 ---
 
-## ✅ Typical Workflow
+## Typical Workflow
 
 ```bash
 # Step 1: Prepare the folders with required files
