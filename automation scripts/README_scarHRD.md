@@ -88,8 +88,8 @@ bash process_folders_parallel.sh
 
 ```bash
 # Step 1: Prepare the folders with required files
-bash copy_all_files.sh
+./copy_all_files.sh
 
 # Step 2: Run scarHRD pipeline in all prepared folders
-bash process_folders_parallel.sh
+./process_folders_parallel.sh
 ```
